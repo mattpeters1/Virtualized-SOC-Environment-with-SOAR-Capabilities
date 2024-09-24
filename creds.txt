@@ -1,0 +1,10 @@
+VM Lab credentials:
+OPNSense GUI: root 0000
+Wazuh GUI: 192.168.1.27 admin admin
+Wazuh agent IP: 192.168.1.3
+
+
+
+Project Notes:
+
+Ubuntu Network ... : The highlighted portion will configure the network interface on to the 192.168.1.0/24 subnet.
